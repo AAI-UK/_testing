@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AAI-UK/_testing">
-    <img src="Adamson Associates International Limited_Black and Red_Hi Res.jpg" alt="Logo" width="80" height="80">
+    <img src="Adamson Associates International Limited_Black and Red_Hi Res.jpg" alt="Logo" width="400" height="80">
   </a>
 
 <h3 align="center">Landing repo</h3>
